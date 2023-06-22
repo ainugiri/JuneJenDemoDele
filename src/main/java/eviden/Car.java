@@ -12,7 +12,7 @@ public class Car {
 	}
 	@Override
 	public String toString() {
-		return "Car [model=" + model + ", year=" + year + ", name=" + name + "]";
+		return "Car [model is" + model + ", year=" + year + ", name=" + name + "]";
 	}
 	
 	
